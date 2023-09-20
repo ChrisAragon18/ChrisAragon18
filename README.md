@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
-- 💻 I’m currently working on majoring in Computer Science
+- 💻 I’m currently working on majoring in Computer Science and minoring in Artificial Intelligence.
 
 
 <!--
