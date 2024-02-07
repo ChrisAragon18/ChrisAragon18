@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working on majoring in Computer Science and minoring in Artificial Intelligence.
-
+- 🌋 Fun fact: Went volcano boarding down Cerro Negro Volcano (León, Nicaragua) for my birthday (December 2022)!
 
 <!--
 **ChrisAragon18/ChrisAragon18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
