@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
-- 💻 I’m currently working on majoring in Computer Science and minoring in Artificial Intelligence.
+- 💻 Majored in Bachelor of Science in Computer Science with a minor in Artificial Intelligence.
 - 🌋 Fun fact: Went volcano boarding down Cerro Negro Volcano (León, Nicaragua) for my birthday (December 2022)!
 
 <!--
